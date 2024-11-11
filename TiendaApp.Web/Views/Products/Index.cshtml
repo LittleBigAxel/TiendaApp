@@ -1,0 +1,42 @@
+﻿@model IEnumerable<TiendaApp.Core.Entities.Product>
+@{
+    ViewData["Title"] = "Product Management";
+    Layout = "_Layout";
+}
+
+<div class="container">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h1>Product Management</h1>
+        <a asp-action="Create" class="btn btn-primary">Create New Product</a>
+    </div>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Category</th>
+                <th>Price</th>
+                <th>Stock</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td>@product.Name</td>
+                    <td>@product.Category</td>
+                    <td>$@product.Price.ToString("F2")</td>
+                    <td>@product.Stock</td>
+                    <td>
+                        <div class="btn-group" role="group">
+                            <a asp-action="Edit" asp-route-id="@product.Id" class="btn btn-warning btn-sm">Edit</a>
+                            <a asp-action="Details" asp-route-id="@product.Id" class="btn btn-info btn-sm">Details</a>
+                            <a asp-action="Delete" asp-route-id="@product.Id" class="btn btn-danger btn-sm">Delete</a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

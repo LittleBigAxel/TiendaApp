@@ -1,0 +1,17 @@
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Infrastructure\bin\Debug\net8.0\TiendaApp.Infrastructure.deps.json
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Infrastructure\bin\Debug\net8.0\TiendaApp.Infrastructure.dll
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Infrastructure\bin\Debug\net8.0\TiendaApp.Infrastructure.pdb
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Infrastructure\bin\Debug\net8.0\TiendaApp.Application.dll
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Infrastructure\bin\Debug\net8.0\TiendaApp.Core.dll
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Infrastructure\bin\Debug\net8.0\TiendaApp.Application.pdb
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Infrastructure\bin\Debug\net8.0\TiendaApp.Core.pdb
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Infrastructure\obj\Debug\net8.0\TiendaApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Infrastructure\obj\Debug\net8.0\TiendaApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Infrastructure\obj\Debug\net8.0\TiendaApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Infrastructure\obj\Debug\net8.0\TiendaApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Infrastructure\obj\Debug\net8.0\TiendaApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Infrastructure\obj\Debug\net8.0\TiendaAp.1895C8BA.Up2Date
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Infrastructure\obj\Debug\net8.0\TiendaApp.Infrastructure.dll
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Infrastructure\obj\Debug\net8.0\refint\TiendaApp.Infrastructure.dll
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Infrastructure\obj\Debug\net8.0\TiendaApp.Infrastructure.pdb
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Infrastructure\obj\Debug\net8.0\ref\TiendaApp.Infrastructure.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AMYjcEzBolq0aAUjx01tT2RbKSEytr5tz2h0OzUIaZo=",
+  "Source": "TiendaApp.Web",
+  "BasePath": "_content/TiendaApp.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

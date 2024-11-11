@@ -1,0 +1,15 @@
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Application\bin\Debug\net8.0\TiendaApp.Application.deps.json
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Application\bin\Debug\net8.0\TiendaApp.Application.dll
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Application\bin\Debug\net8.0\TiendaApp.Application.pdb
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Application\bin\Debug\net8.0\TiendaApp.Core.dll
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Application\bin\Debug\net8.0\TiendaApp.Core.pdb
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Application\obj\Debug\net8.0\TiendaApp.Application.csproj.AssemblyReference.cache
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Application\obj\Debug\net8.0\TiendaApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Application\obj\Debug\net8.0\TiendaApp.Application.AssemblyInfoInputs.cache
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Application\obj\Debug\net8.0\TiendaApp.Application.AssemblyInfo.cs
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Application\obj\Debug\net8.0\TiendaApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Application\obj\Debug\net8.0\TiendaAp.C7AE7ECA.Up2Date
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Application\obj\Debug\net8.0\TiendaApp.Application.dll
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Application\obj\Debug\net8.0\refint\TiendaApp.Application.dll
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Application\obj\Debug\net8.0\TiendaApp.Application.pdb
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Application\obj\Debug\net8.0\ref\TiendaApp.Application.dll

@@ -1,0 +1,11 @@
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Core\bin\Debug\net8.0\TiendaApp.Core.deps.json
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Core\bin\Debug\net8.0\TiendaApp.Core.dll
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Core\bin\Debug\net8.0\TiendaApp.Core.pdb
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Core\obj\Debug\net8.0\TiendaApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Core\obj\Debug\net8.0\TiendaApp.Core.AssemblyInfoInputs.cache
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Core\obj\Debug\net8.0\TiendaApp.Core.AssemblyInfo.cs
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Core\obj\Debug\net8.0\TiendaApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Core\obj\Debug\net8.0\TiendaApp.Core.dll
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Core\obj\Debug\net8.0\refint\TiendaApp.Core.dll
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Core\obj\Debug\net8.0\TiendaApp.Core.pdb
+C:\Users\Axel\source\repos\TiendaApp\TiendaApp.Core\obj\Debug\net8.0\ref\TiendaApp.Core.dll
